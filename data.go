@@ -4,6 +4,8 @@ import "unsafe"
 
 type (
 	HMOUDLE = unsafe.Pointer
+	DWORD   = uint32
+	PVOID   = unsafe.Pointer
 )
 
 const (
