@@ -1,4 +1,4 @@
-module Windows
+module github.com/RS0010/goWindows
 
 go 1.17
 
